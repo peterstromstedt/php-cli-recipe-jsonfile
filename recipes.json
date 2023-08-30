@@ -1,0 +1,33 @@
+{
+    "1": {
+        "name": "chokladbollar",
+        "ingredients": [
+            "havregryn",
+            "kanel",
+            "socker"
+        ]
+    },
+    "2": {
+        "name": "pannkaka",
+        "ingredients": [
+            "vetemj\u00f6l",
+            "mj\u00f6lk",
+            "sm\u00f6r"
+        ]
+    },
+    "3": {
+        "name": "\u00e4ppelkaka",
+        "ingredients": [
+            "socker",
+            "\u00e4pple"
+        ]
+    },
+    "4": {
+        "name": "kladdkaka",
+        "ingredients": [
+            "sm\u00f6r",
+            "vetemj\u00f6l",
+            "kakao"
+        ]
+    }    
+}
